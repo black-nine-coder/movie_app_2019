@@ -1,3 +1,3 @@
-# Move App 2019
+# Movie App 2019
 
 My fisrt React JS
