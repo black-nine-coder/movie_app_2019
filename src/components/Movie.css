@@ -15,8 +15,8 @@
   
   .movie img {
     position: relative;
-    top: -50px;
-    max-width: 150px;
+    top: -30px;
+    max-width: 250px;
     width: 100%;
     margin-right: 30px;
     box-shadow: 0 30px 60px -12px rgba(50, 50, 93, 0.25),
